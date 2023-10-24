@@ -1,0 +1,56 @@
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 5cm;
+}
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  small {
+    text-align: center;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  h2{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align: center;
+  }
+
+  h4{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  }
+
+bb88{
+    width: 790px;
+  height:497px;
+}
+
+  body {
+    background-image: url("maxresdefaut-3361394924.jpg");
+    background-color: #000000;
+  }
+
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #a8a7a7;
+    box-shadow: 0 0 100px a8a7a7
+  }
